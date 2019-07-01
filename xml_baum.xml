@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Darstellung eines Binärbaumes in XML-->
+<baum art="Binärbaum">
+  <knoten>
+    <name>
+      Wurzel
+    </name>
+    <wert>
+      42
+    </wert>
+    <linkes_kind>
+      <knoten>
+        <name>
+          Blatt
+        </name>
+        <wert>
+          32
+        </wert>
+        <linkes_kind> </linkes_kind>
+        <rechtes_kind> </rechtes_kind>
+      </knoten>
+    </linkes_kind>
+    <rechtes_kind>
+      <knoten>
+        <name>
+          Blatt
+        </name>
+        <wert>
+          43
+        </wert>
+        <linkes_kind> </linkes_kind>
+        <rechtes_kind> </rechtes_kind>
+      </knoten>
+    </rechtes_kind>
+  </knoten>
+</baum>

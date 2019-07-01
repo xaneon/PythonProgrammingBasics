@@ -1,0 +1,1 @@
+./m2elf.pl --in hello_world.m --out test.b --mem 100

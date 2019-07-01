@@ -1,0 +1,27 @@
+{
+  "baum":
+  {
+    "knoten":
+    {
+      "name": "Wurzel",
+      "wert": "42",
+      "linkes_kind": {
+        "knoten": {
+          "name": "Blatt",
+          "wert": "32",
+          "linkes_kind": "",
+          "rechtes_kind": ""
+        }
+      },
+      "rechtes_kind": {
+        "knoten": {
+          "name": "Blatt",
+          "wert": "43",
+          "linkes_kind": "",
+          "rechtes_kind": ""
+        }
+      }
+    },
+  "@art": "Bin\u00e4rbaum"
+  }
+}
